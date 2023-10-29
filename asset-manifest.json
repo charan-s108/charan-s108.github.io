@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50702927.css",
+    "main.js": "/static/js/main.a5f30e6f.js",
+    "static/media/CC.jpg": "/static/media/CC.8cc465ab2efe1f409f11.jpg",
+    "static/media/contact_img.png": "/static/media/contact_img.41fa4f7bacaef503baa9.png",
+    "static/media/about.png": "/static/media/about.cb3689bc03b944810678.png",
+    "static/media/Salesforce Certified Associate.jpg": "/static/media/Salesforce Certified Associate.7b3eeb4fffc5440e2686.jpg",
+    "static/media/AZ-900.jpg": "/static/media/AZ-900.2dcf05021098dd074cb8.jpg",
+    "static/media/perfil.png": "/static/media/perfil.a02e2d2f654f131f2865.png",
+    "static/media/SC-900.jpg": "/static/media/SC-900.d107a36ea81603e7e05a.jpg",
+    "static/media/jenkins_logo.png": "/static/media/jenkins_logo.04bf0095135ff799790b.png",
+    "static/media/CircleCI.png": "/static/media/CircleCI.5b5fd16cc7a51fe66825.png",
+    "static/media/kubernetes_logo.png": "/static/media/kubernetes_logo.bc8af677c92d8467fd61.png",
+    "static/media/logo.png": "/static/media/logo.b302488550a90d354b8a.png",
+    "static/media/Burp.ico": "/static/media/Burp.68e03b6886fa0bd20e3d.ico",
+    "static/media/Hydra.ico": "/static/media/Hydra.761d38adf9b0824e261d.ico",
+    "static/media/Metasploit.ico": "/static/media/Metasploit.adcd30d0db22a64b7c46.ico",
+    "static/media/Nessus.ico": "/static/media/Nessus.8dfd63aac7e68359c617.ico",
+    "static/media/Nmap.ico": "/static/media/Nmap.0ac55fa04f28da346382.ico",
+    "static/media/Wireshark.ico": "/static/media/Wireshark.f22d738c33d031b34720.ico",
+    "index.html": "/index.html",
+    "main.50702927.css.map": "/static/css/main.50702927.css.map",
+    "main.a5f30e6f.js.map": "/static/js/main.a5f30e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50702927.css",
+    "static/js/main.a5f30e6f.js"
+  ]
+}
